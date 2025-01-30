@@ -1,0 +1,6 @@
+question,answer_1,answer_2,correct_answer,judge_answer,winning_debater
+Find all zeros in the indicated finite field of the given polynomial with coefficients in that field. x^3 + 2x + 2 in Z_7,1,2,2,1,Debater A
+Compute the product in the given ring. (20)(-8) in Z_26,22,11,11,22,Debater A
+How many homomorphisms are there of Z into Z_2?,1,2,1,2,Debater B
+"The element (4, 2) of Z_12 x Z_8 has order",6,8,8,6,Debater A
+"Using Fermat's theorem, find the remainder of 3^47 when it is divided by 23.",3,2,3,3,Debater A

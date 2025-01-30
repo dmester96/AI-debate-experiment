@@ -1,4 +1,4 @@
-# Debate-Based AI Evaluation
+# Arguing for the Truth? An Inference-Only Study into AI Debate
 
 ## Overview
 
@@ -83,15 +83,6 @@ The following topics are used in the MMLU dataset:
 - `win_rate_analysis.py` - Computes win rates for **Gemini** and **Claude** across debate configurations.
 - `correct_incorrect_ratings.py` - Computes how often debaters convince the judge when arguing for **correct** vs **incorrect** answers.
 
-## Setting Up Environment Variables 
-
-Before running scripts, set the required environment variables:
-
-```bash
-export CONFIG_A_PATH="path_to_config_a_csvs"
-export CONFIG_B_PATH="path_to_config_b_csvs"
-export OUTPUT_CSV_PATH="output_file_path.csv"
-
 ### Results Interpretation
 
 - **Judge Accuracy**: Measures how often the judge selects the correct answer.
@@ -102,3 +93,13 @@ export OUTPUT_CSV_PATH="output_file_path.csv"
 ## Citation and Related Work
 
 This project is inspired by prior research on AI debates, including work by **Irving et al. (2018), Khan et al. (2024), Michael et al. (2023), Kenton et al. (2024), Du et al. (2023), and Radhakrishnan (2023).**
+
+## Setting Up Environment Variables 
+
+Before running scripts, set the required environment variables:
+
+```bash
+export CONFIG_A_PATH="path_to_config_a_csvs"
+export CONFIG_B_PATH="path_to_config_b_csvs"
+export OUTPUT_CSV_PATH="output_file_path.csv"
+

@@ -1,0 +1,6 @@
+question,answer_1,answer_2,correct_answer,judge_answer,winning_debater
+"If the finite group G contains a subgroup of order seven but no element (other than the identity) is its own inverse, then the order of G could be",27,28,28,28,Debater B
+"A large class is to be divided into teams and each student must be a member of exactly one team. However, each student dislikes three of their classmates. Dislike between students need not be mutual. If the teams do not need to be equally sized, how many must be created so that no student is the teammate of someone they dislike?",4,13,4,4,Debater A
+What is the area of an equilateral triangle whose inscribed circle has radius 2?,12√3,16,16,12√3,Debater A
+"What is the minimum value of the expression x + 4z as a function defined on R^3, subject to the constraint x^2 + y^2 + z^2 <= 2?",0,-2,-2,0,Debater A
+"If V and W are 2-dimensional subspaces of R^4 ,what are the possible dimensions of the subspace V intersect W?",1 only,0 and 1 only,0 and 1 only,0 and 1 only,Debater B

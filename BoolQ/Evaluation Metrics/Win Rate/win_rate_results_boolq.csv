@@ -1,0 +1,3 @@
+Model,Win Rate as Debater A,Win Rate as Debater B,Overall Balanced Win Rate
+Gemini,0.68,0.44,0.56
+Claude,0.56,0.32,0.44000000000000006
